@@ -2,8 +2,8 @@
 
 namespace socialmedia;
 
-require_once '../../liskovsubstitution/case1/socialmedia.php';
-require_once '../../liskovsubstitution/case1/postmediavideo.php';
+require_once 'C:\laragon\www\solid_d4rpl2b\lsp\case1\socialmedia.php';
+require_once 'C:\laragon\www\solid_d4rpl2b\lsp\case1\postmediavideo.php';
 
 class Instagram implements \SocialMedia, \PostMediaManager
 {
